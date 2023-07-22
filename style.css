@@ -53,6 +53,10 @@ button{
   cursor: pointer;
 }
 
+button:hover{
+  background-color: #fb7c14;
+  color: #ffffff;
+}
 
 .operators{
   color: #fb7c14;
